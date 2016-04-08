@@ -1,1 +1,0 @@
--- La v5 n'est pas compatible avec la v4 : SUPPRIMER ET REIMPORTER structure.sql
