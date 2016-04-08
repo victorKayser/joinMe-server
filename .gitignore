@@ -1,0 +1,8 @@
+/config.js
+node_modules
+/vendor/
+/pb-config.json
+/server/config.php
+/upload/
+
+nohup.out
